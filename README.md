@@ -1,1 +1,2 @@
 # last-version
+*Hello Java!
